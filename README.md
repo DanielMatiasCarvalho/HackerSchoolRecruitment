@@ -1,6 +1,6 @@
-#HACKERSCHOOL
+# HACKERSCHOOL
 
-#PYTHON PROJECT 2023/2024 RECRUITMENT
+# PYTHON PROJECT 2023/2024 RECRUITMENT
 
 The application can be executed, while in the directory, by:
 
