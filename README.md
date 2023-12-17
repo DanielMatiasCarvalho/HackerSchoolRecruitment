@@ -15,12 +15,11 @@ two menus, main menu and edit menu, through which commands are chosen in accord 
 (each command has a "code", which is an integer)
 
 There are three main files:
-    - ```main.py``` - File with the various menus, and functions to interact with the user, using       methods of the TaskList class during the process
+     main.py - File with the various menus, and functions to interact with the user, using methods of the TaskList class during the process
 
-    - ```task_list.py``` - File with the class TaskList, that stores and manges the  various tasks,
-    being used by functions in ```main.py``` and using methods in ```task.py```
+     task_list.py - File with the class TaskList, that stores and manges the  various tasks, being used by functions in main.py and using methods in task.py
 
-    - ```task.py``` - File with the class Task, not used directly by ```main.py```, but used by TaskList class methods in ```task_list.py```
+     task.py - File with the class Task, not used directly by main.py, but used by TaskList class methods in task_list.py
 
 The application, while running, allows the user to interact with the Task List Apllication by:
 
